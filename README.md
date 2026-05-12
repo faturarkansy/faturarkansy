@@ -21,12 +21,6 @@ I do **software engineering**.
 [![Leetcode Stats](https://leetcard.jacoblin.cool/faturarkansy?ext=contest&ext=contest&ext=heatmap))](https://leetcode.com/u/faturarkansy)
 [![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=faturarkansyawa1&theme=dark)](https://www.hackerrank.com/faturarkansyawa1)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faturarkansy/faturarkansy/pacman-output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faturarkansy/faturarkansy/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faturarkansy/faturarkansy/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
 <br clear="both">
 
 <picture>
